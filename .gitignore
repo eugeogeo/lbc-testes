@@ -1,0 +1,61 @@
+# ==========================================
+# Ambientes Virtuais
+# ==========================================
+venv/
+env/
+.venv/
+
+# ==========================================
+# Arquivos do Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================================
+# Datasets e Imagens
+# ==========================================
+# Ignora pastas de dados para evitar subir bases como FMD, DTD, etc.
+FMD_dataset/
+data/
+datasets/
+dataset/
+*.jpg
+*.jpeg
+*.png
+
+# ==========================================
+# Modelos e Pesos de Rede Neural
+# ==========================================
+# Ignora arquivos de modelos treinados do PyTorch e scikit-learn
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+models/
+checkpoints/
+
+# ==========================================
+# Logs e Resultados de Experimentos
+# ==========================================
+logs/
+runs/
+*.log
