@@ -1,0 +1,13 @@
+# Manipulação de arrays e dados
+numpy>=1.24.0
+
+# Processamento de imagens
+opencv-python>=4.8.0
+scikit-image>=0.21.0
+
+# Aprendizado de Máquina Clássico (SVM, Cross-Validation, Scaler)
+scikit-learn>=1.3.0
+
+# Deep Learning (ResNet-18 e transformações de tensores)
+torch>=2.1.0
+torchvision>=0.16.0
