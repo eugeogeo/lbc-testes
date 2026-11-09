@@ -33,6 +33,7 @@ wheels/
 # ==========================================
 # Ignora pastas de dados para evitar subir bases como FMD, DTD, etc.
 FMD_dataset/
+dataset_texture/
 data/
 datasets/
 dataset/
