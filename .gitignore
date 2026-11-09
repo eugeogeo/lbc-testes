@@ -52,10 +52,12 @@ dataset/
 *.hdf5
 models/
 checkpoints/
+saved_models/
 
 # ==========================================
 # Logs e Resultados de Experimentos
 # ==========================================
 logs/
 runs/
+results/
 *.log
